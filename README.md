@@ -3,7 +3,7 @@
 
 This repository contains a comprehensive collection of Python scripts and notebooks demonstrating data visualization techniques using **Matplotlib** and **Seaborn**. It is aimed at beginners and intermediate learners who want to strengthen their skills in visualizing data effectively for analysis and storytelling.
 
-## 🧠 What You'll Learn
+##  What You'll Learn
 
 - Basics of Matplotlib: Line plots, bar charts, histograms, scatter plots, etc.
 - Advanced Matplotlib: Customizing plots, subplots, annotations, styles.
@@ -12,4 +12,3 @@ This repository contains a comprehensive collection of Python scripts and notebo
 - Customizing Seaborn plots for better visual appeal.
 - Combining Matplotlib and Seaborn for interactive and detailed visualizations.
 
-## 📁 Project Structure
